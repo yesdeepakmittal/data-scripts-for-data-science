@@ -12,4 +12,4 @@
 |Finance |          |
 |[yfinance](https://github.com/yesdeepakmittal/data-scripts/blob/main/finance/yfinance.ipynb)||
 |[yahoofinancials](https://github.com/yesdeepakmittal/data-scripts/blob/main/finance/yahoofinancials.ipynb)||
-|[Alpha Vintage](https://github.com/yesdeepakmittal/data-scripts/blob/main/finance/alphaVintage.ipynb)|https://www.alphavantage.co/|
+|[Alpha Vintage](https://github.com/yesdeepakmittal/data-scripts/blob/main/finance/alphaVintage.ipynb)|https://www.alphavantage.co/ \| https://github.com/RomelTorres/alpha_vantage|
