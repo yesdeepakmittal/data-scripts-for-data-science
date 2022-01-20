@@ -2,7 +2,7 @@
 |Other                       | Comment |
 |----------------------------|---------|
 |Social Media||
-|[Youtube Channel Id](./SocialMedia/youtube-get_channel_id.py)||
+|[Youtube Channel Id](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-get_channel_id.py)||
 |[Stack Overflow API](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/StackOverflow.ipynb)||
 |||
 |Finance ||
