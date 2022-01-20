@@ -6,6 +6,7 @@
 - [Youtube Channel Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-channel-info.py)
 - [Youtube Video Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-video-info.py)
 - [Twitter Bio Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_bio_info_compiler.py)
+- [My Twitter Summary](https://www.kaggle.com/yesdeepakmittal/my-twitter-summary)
 - [Twitter get Followers](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_get_followers.py)
 - [Twitter get Friends](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_get_friends.py)
 - [Twitter Searcher](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_searcher.py)
@@ -20,6 +21,6 @@
 
 ### Other
 - [NEWS Scrapper Automatic Email](https://github.com/amrrs/build_tools_to_automate_python/blob/master/hn_news_scraper_no_cred.py)
-- [Send Email Using Python](./other/send_mail_using_python.py)
+- [Send Email Using Python](https://github.com/yesdeepakmittal/data-scripts/blob/main/other/send_mail_using_python.py)
 - [TED Talk Downloader](https://github.com/amrrs/build_tools_to_automate_python/blob/master/ted_talk_downloader.py)
 - [PDF Table Extractor(camelot)](https://github.com/amrrs/build_tools_to_automate_python/blob/master/PDF%20Table%20Extraction/Extracting%20Table%20from%20PDF%20-%20UN%20HDI%20Report.ipynb)
