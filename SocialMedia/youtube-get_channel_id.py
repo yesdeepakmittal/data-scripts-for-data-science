@@ -2,6 +2,9 @@
 - Create a Virtual environment first - https://gist.github.com/yesdeepakmittal/61494217c8be4a7e61524e27824943bd
 - install this library - https://github.com/googleapis/google-api-python-client
 - https://github.com/googleapis/google-api-python-client#windows
+
+OR
+- Read this - https://github.com/yesdeepakmittal/data-scripts/blob/main/API.md#setting-up-virtual-environment
 '''
 
 from apiclient.discovery import build
