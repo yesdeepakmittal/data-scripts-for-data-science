@@ -6,6 +6,7 @@
 - [Youtube Searcher](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-searcher.py)
 - [Youtube Channel Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-channel-info.py)
 - [Youtube Video Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-video-info.py)
+- [Youtube Video Playlist Fetch Description](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-fetch-video-description.py)
 - [Twitter Bio Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_bio_info_compiler.py)
 - [My Twitter Summary](https://www.kaggle.com/yesdeepakmittal/my-twitter-summary)
 - [Twitter get Followers](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_get_followers.py)
