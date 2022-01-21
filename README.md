@@ -14,7 +14,7 @@
 - [Twitter Searcher](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_searcher.py)
 - [Twitter tweet dumper](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_tweet_dumper.py)
 - [Twitter Word Count](https://github.com/yesdeepakmittal/social-media-data-scripts/blob/master/01-apis/scripts/twitter_wordCount.py)
-- [Stack Overflow API](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/StackOverflow.ipynb)
+- [Stack Overflow Questions/Tags](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/stackOverflow-questions-tags.py)
 
 ### Finance 
 - [yfinance](https://github.com/yesdeepakmittal/data-scripts/blob/main/finance/yfinance.ipynb)
