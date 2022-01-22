@@ -8,6 +8,7 @@
 - [Youtube - Video Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-video-info.py)
 - [Youtube - Fetch Playlists of a Channel](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-get-all-playlists.py)
 - [Youtube - Fetch Video Description of Playlist](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-fetch-video-description.py)
+- [Youtube - Fetch Video Comments(total)](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-fetch-video-comments.py)
 - [Twitter - Bio Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_bio_info_compiler.py)
 - [Twitter - Summary](https://www.kaggle.com/yesdeepakmittal/my-twitter-summary)
 - [Twitter - get Followers](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/twitter_get_followers.py)
