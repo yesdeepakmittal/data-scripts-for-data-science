@@ -1,7 +1,7 @@
 # Python Data Scripts
 
 ### Social Media
-- [Youtube - Channel Id](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-get_channel_id.py)
+<!-- - [Youtube - Channel Id](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-get_channel_id.py) Need improvement-->
 - [Youtube - Channel Mentions by Others](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-Other_channels_mentioning_this_channel.py)
 - [Youtube - Searcher](https://github.com/yesdeepakmittal/data-scripts/blob/main/SocialMedia/youtube-searcher.py)
 - [Youtube - Channel Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-channel-info.py)
