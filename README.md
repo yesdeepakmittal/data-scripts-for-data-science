@@ -27,3 +27,4 @@
 - [Send Email Using Python](https://github.com/yesdeepakmittal/data-scripts/blob/main/other/send_mail_using_python.py)
 - [TED Talk Downloader](https://github.com/amrrs/build_tools_to_automate_python/blob/master/ted_talk_downloader.py)
 - [PDF Table Extractor(camelot)](https://github.com/amrrs/build_tools_to_automate_python/blob/master/PDF%20Table%20Extraction/Extracting%20Table%20from%20PDF%20-%20UN%20HDI%20Report.ipynb)
+- [Giphy Searcher](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/giphy_search_scraper.py)
