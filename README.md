@@ -3,7 +3,7 @@
 |Title                        |     Mode      | Tool Used   | Type |
 |-----------------------------|---------------|--------|-----------|
 |[Youtube - Searcher](./SocialMedia/youtube-searcher.py)|API/Library|apiclient|Social Media|
-||Youtube - Channel Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-channel-info.py)|API/Library|requests|Social Media|
+|[Youtube - Channel Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-channel-info.py)|API/Library|requests|Social Media|
 |[Youtube - Video Info](https://github.com/lamthuyvo/social-media-data-scripts/blob/master/01-apis/scripts/youtube-get-video-info.py)|API/Library|requests|Social Media|
 |[Youtube - Fetch Videos from Channel](./SocialMedia/youtube-fetch-videos.py)|API/Library|apiclient|Social Media|
 |[Youtube - Fetch Playlists of a Channel](./SocialMedia/youtube-get-all-playlists.py)|API/Library|apiclient|Social Media|
